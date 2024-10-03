@@ -1,6 +1,6 @@
-# seperates all jobs
+# seperates all jobs, runs sequentually
 
-name: Deployment Exersice 2
+name: Deployment Exersice 2 alt
 on: push
 jobs:
   lint:
